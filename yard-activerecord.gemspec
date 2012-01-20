@@ -1,5 +1,4 @@
 # -*- encoding: utf-8 -*-
-require 'YARD'
 require File.dirname(__FILE__) + '/lib/yard-activerecord'
 require File.dirname(__FILE__) + '/lib/yard-activerecord/version'
 
